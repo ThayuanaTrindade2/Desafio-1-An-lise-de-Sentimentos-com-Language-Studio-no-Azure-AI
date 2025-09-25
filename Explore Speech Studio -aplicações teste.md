@@ -1,0 +1,1 @@
+ ## Explore Speech Studio -Aplicções testes
