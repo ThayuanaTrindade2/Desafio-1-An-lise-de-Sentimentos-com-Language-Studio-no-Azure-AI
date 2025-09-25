@@ -3,7 +3,7 @@
 
 ---
  ## Objetivo :
- praticar e aprofundar o uso das ferramentas Azure Speech Studio e Language Studio, focando na análise de fala e linguagem natural desenvolvendo  habilidades práticas na criação de soluções baseadas em inteligência artificial voltadas para voz e linguagem. 
+ praticar e aprofundar o uso das ferramentas Azure Speech Studio e Language Studio, focando na análise de fala e linguagem natural desenvolvendo  habilidades práticas na criação de soluções baseadas em inteligência artificial voltadas para voz e linguagem. Sendo atualizado conforme avanço nos estudos.
 
 ----
 ## Recursos Utilizados ⚒️⚒️⚒️
